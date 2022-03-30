@@ -1,0 +1,10 @@
+.banner {
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
+
+.banner h1 {
+	position: absolute;
+	color: white;
+}
